@@ -1,0 +1,5034 @@
+[
+    {
+        "pomid": 147721,
+        "name": "ZTP36814",
+        "type": "uspotm2m",
+        "latitude": "49.19808966",
+        "longitude": "16.60664038",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1759258018277
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1756113258347
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759495122741
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756147767174
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774211903000",
+                "last_update": 1774211903517
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774211903512
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "17.7",
+                "last_update": 1774211903502
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "15.299999999999999",
+                "last_update": 1774211903523
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "58.65",
+                "last_update": 1774211903506
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759495122738
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756113258352
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753187067212
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753187067220
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070575293",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Moravské náměstí",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775064182000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147722,
+        "name": "ZTP40063",
+        "type": "uspotm2m",
+        "latitude": "49.19661546",
+        "longitude": "16.60480989",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1756910620533
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1756200755129
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759492057474
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756910620537
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1771340514000",
+                "last_update": 1771340514704
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1771340514719
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-27.599999999999998",
+                "last_update": 1771340514724
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "9.75",
+                "last_update": 1771340514713
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "58.199999999999996",
+                "last_update": 1771340514708
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759492057478
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756200755135
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1753187290409
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.5",
+                "last_update": 1753187290416
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070553365",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Opletalova",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1774976017000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147723,
+        "name": "ZTP36792",
+        "type": "uspotm2m",
+        "latitude": "49.19752284",
+        "longitude": "16.60821305",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1757083908467
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1756191101096
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759491931889
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1757083908470
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1771459122000",
+                "last_update": 1771459122059
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1771459122072
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-19.05",
+                "last_update": 1771459122063
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "41.55",
+                "last_update": 1771459122067
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "48.9",
+                "last_update": 1771459122075
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759491931884
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756191101102
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753187492068
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753187492074
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070575384",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Moravské náměstí",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775114642000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147724,
+        "name": "ZTP36783",
+        "type": "uspotm2m",
+        "latitude": "49.19634356",
+        "longitude": "16.60809963",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1769465799870
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1756110700934
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759486260095
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756202889319
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1775070232000",
+                "last_update": 1775070232468
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1775070232493
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-37.8",
+                "last_update": 1775070232480
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "34.35",
+                "last_update": 1775070232474
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "69.14999999999999",
+                "last_update": 1775070232486
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759486260100
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756110700939
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753188126395
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753188126401
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070568785",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Jakubské náměstí",
+        "occupation": {
+            "free_spots": 1,
+            "undefined_spots": 0,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775130812000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147725,
+        "name": "ZTP12422(1)",
+        "type": "uspotm2m",
+        "latitude": "49.19796839",
+        "longitude": "16.6106505",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1767093463235
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1761231350683
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759495164541
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756233731458
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774628107000",
+                "last_update": 1774628107056
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774628107061
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-43.65",
+                "last_update": 1774628107042
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "4.95",
+                "last_update": 1774628107047
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "48.6",
+                "last_update": 1774628107051
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759495164537
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756195811479
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1753189250420
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.95",
+                "last_update": 1761231350687
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070541378",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Roosveltova 1",
+        "occupation": {
+            "free_spots": 1,
+            "undefined_spots": 0,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775128020000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147726,
+        "name": "ZTP12422(2)",
+        "type": "uspotm2m",
+        "latitude": "49.19800208",
+        "longitude": "16.61057841",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1774479881569
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1761231351045
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759494390082
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756133737343
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774955325000",
+                "last_update": 1774955325546
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774955325552
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-30.75",
+                "last_update": 1774955325557
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "17.849999999999998",
+                "last_update": 1774955325562
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "45.15",
+                "last_update": 1774955325537
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759494390061
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756106187514
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1753189284323
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.95",
+                "last_update": 1761231351050
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070573397",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Roosveltova 2",
+        "occupation": {
+            "free_spots": 1,
+            "undefined_spots": 0,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775128402000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147727,
+        "name": "ZTP12422(3)",
+        "type": "uspotm2m",
+        "latitude": "49.19803497",
+        "longitude": "16.61049573",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1771927282241
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1761231351392
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759495025471
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756130476908
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774967209000",
+                "last_update": 1774967209118
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774967209131
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-34.5",
+                "last_update": 1774967209124
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "23.7",
+                "last_update": 1774967209112
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "44.699999999999996",
+                "last_update": 1774967209136
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759495025477
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756106504117
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1753189315155
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.95",
+                "last_update": 1761231351396
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070568462",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Roosveltova 3",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775065794000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147728,
+        "name": "ZTP36764",
+        "type": "uspotm2m",
+        "latitude": "49.19602139",
+        "longitude": "16.61022533",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1765897721615
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1756189341505
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759486382902
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756737796531
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1772813560000",
+                "last_update": 1772813560485
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1772813560480
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "16.349999999999998",
+                "last_update": 1772813560490
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "-1.95",
+                "last_update": 1772813560475
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "49.5",
+                "last_update": 1772813560494
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759486382899
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756189341510
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753251787444
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753251787449
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070541394",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Beethovenova",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775126435000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147776,
+        "name": "ZTP36802",
+        "type": "uspotm2m",
+        "latitude": "49.19585145",
+        "longitude": "16.61031656",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1758206589295
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1757484691310
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759491378233
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1758206589300
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1771575769000",
+                "last_update": 1771575769119
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1771575769110
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-16.5",
+                "last_update": 1771575769124
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "-17.25",
+                "last_update": 1771575769103
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "56.699999999999996",
+                "last_update": 1771575769114
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759491378225
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1757484691314
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753860612894
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753860612901
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070553308",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Dvořákova",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1774798316000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147777,
+        "name": "ZTP36735",
+        "type": "uspotm2m",
+        "latitude": "49.19697384",
+        "longitude": "16.61095433",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1758464916116
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1757316828941
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759495791051
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1758464916119
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774530256000",
+                "last_update": 1774530256162
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774530256179
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-59.55",
+                "last_update": 1774530256172
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "-6.1499999999999995",
+                "last_update": 1774530256167
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "95.1",
+                "last_update": 1774530256185
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759495791055
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1757316828946
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753861011279
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753861011284
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070560956",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Mozartova",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775128138000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147778,
+        "name": "ZTP36738",
+        "type": "uspotm2m",
+        "latitude": "49.19619034",
+        "longitude": "16.61126769",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1758997694915
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1757917056115
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759490856001
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1758997694917
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1765960460000",
+                "last_update": 1765960460954
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1765960460958
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-18.0",
+                "last_update": 1765960460962
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "-1.5",
+                "last_update": 1765960460967
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "45.9",
+                "last_update": 1765960460970
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759490855994
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1757917056122
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753861194974
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753861194980
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070569320",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Mozartova",
+        "occupation": {
+            "free_spots": 1,
+            "undefined_spots": 0,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775124879000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147779,
+        "name": "ZTP37335",
+        "type": "uspotm2m",
+        "latitude": "49.1937125",
+        "longitude": "16.60718872",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1769466277982
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1757060329228
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759494124152
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1757484988211
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1773364713000",
+                "last_update": 1773364713149
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1773364713152
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-47.1",
+                "last_update": 1773364713145
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "2.4",
+                "last_update": 1773364713156
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "79.8",
+                "last_update": 1773364713160
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759494124142
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1757060329231
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "05",
+                "last_update": 1753861603893
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753861603898
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070576341",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Dominikánské náměstí",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775131145000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147780,
+        "name": "ZTP36934",
+        "type": "uspotm2m",
+        "latitude": "49.19242857",
+        "longitude": "16.60535436",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1759746930241
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1757326569481
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759485862115
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1757356532983
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1773682656000",
+                "last_update": 1773682656333
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1773682656320
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-22.05",
+                "last_update": 1773682656314
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "32.699999999999996",
+                "last_update": 1773682656326
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "47.699999999999996",
+                "last_update": 1773682656338
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759485862119
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1757326569486
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "05",
+                "last_update": 1753861831182
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753861831187
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070569726",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Šilingrovo náměstí",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1774347721000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147781,
+        "name": "ZTP36935",
+        "type": "uspotm2m",
+        "latitude": "49.19229189",
+        "longitude": "16.60538524",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1766097640798
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1757320688001
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759485928665
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1757356290974
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774608608000",
+                "last_update": 1774608609685
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774608609703
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "5.85",
+                "last_update": 1774608609690
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "-17.25",
+                "last_update": 1774608609694
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "49.199999999999996",
+                "last_update": 1774608609698
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759485928650
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1757320688006
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "05",
+                "last_update": 1753861904554
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753861904558
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070569239",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Šilingrovo náměstí",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775120822000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147782,
+        "name": "ZTP34391",
+        "type": "uspotm2m",
+        "latitude": "49.19243068",
+        "longitude": "16.60824082",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1771970981479
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1757318879494
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759487440958
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1758247803021
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1775116034000",
+                "last_update": 1775116034228
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1775116034249
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "0.75",
+                "last_update": 1775116034218
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "-1.95",
+                "last_update": 1775116034236
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "56.1",
+                "last_update": 1775116034243
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759487440951
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1757318879498
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1753862112912
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.5",
+                "last_update": 1753862112919
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070568959",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Zelený trh",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775108868000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147783,
+        "name": "ZTP34385",
+        "type": "uspotm2m",
+        "latitude": "49.19266362",
+        "longitude": "16.60938576",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1769466443902
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1757486726621
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759491796811
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1759529856164
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1773893940000",
+                "last_update": 1773893940633
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1773893940643
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-33.449999999999996",
+                "last_update": 1773893940648
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "15.149999999999999",
+                "last_update": 1773893940628
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "50.699999999999996",
+                "last_update": 1773893940638
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759491796815
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1757486726624
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "05",
+                "last_update": 1753863155472
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753863155477
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070552995",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Zelený trh",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775108543000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147784,
+        "name": "ZTP36891(1)",
+        "type": "uspotm2m",
+        "latitude": "49.1945293",
+        "longitude": "16.61257298",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1769466538671
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1756123264898
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759493483825
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1757413369744
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1772808485000",
+                "last_update": 1772808485908
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1772808485917
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-5.55",
+                "last_update": 1772808485925
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "25.05",
+                "last_update": 1772808485921
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "46.5",
+                "last_update": 1772808485912
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759493483817
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756123264910
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1753863424545
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.5",
+                "last_update": 1753863424550
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070574171",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Měnínská 1 ",
+        "occupation": {
+            "free_spots": 1,
+            "undefined_spots": 0,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775122008000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147785,
+        "name": "ZTP36891(2)",
+        "type": "uspotm2m",
+        "latitude": "49.19447059",
+        "longitude": "16.61255441",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1769467044098
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1757056732632
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759490225612
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1758911273227
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1766942739000",
+                "last_update": 1766942739337
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1766942739341
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "5.85",
+                "last_update": 1766942739358
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "17.55",
+                "last_update": 1766942739333
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "46.35",
+                "last_update": 1766942739345
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759490225602
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1757056732636
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1753863469488
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.5",
+                "last_update": 1753863469493
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070569122",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Měnínská 2",
+        "occupation": {
+            "free_spots": 1,
+            "undefined_spots": 0,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775126496000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147797,
+        "name": "ZTP12719(1)",
+        "type": "uspotm2m",
+        "latitude": "49.19526664",
+        "longitude": "16.61493482",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1757947378607
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1756971643496
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759485661462
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1757025793532
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774219905000",
+                "last_update": 1774219905108
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774219905123
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-21.45",
+                "last_update": 1774219905127
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "18.9",
+                "last_update": 1774219905113
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "50.699999999999996",
+                "last_update": 1774219905117
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759485661443
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756971643501
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753875316228
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753875316232
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070553357",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Benešova 1",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775129986000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147798,
+        "name": "ZTP12719(2)",
+        "type": "uspotm2m",
+        "latitude": "49.19529874",
+        "longitude": "16.61491288",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1759530833802
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1756971697401
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759485780170
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1757039759693
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1772651968000",
+                "last_update": 1772651968802
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1772651968812
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-31.349999999999998",
+                "last_update": 1772651968817
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "33.9",
+                "last_update": 1772651968822
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "41.4",
+                "last_update": 1772651968806
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759485780192
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756971697405
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753875344942
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753875344946
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070569767",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Benešova 2",
+        "occupation": {
+            "free_spots": 1,
+            "undefined_spots": 0,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775130490000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147799,
+        "name": "ZTP12719(3)",
+        "type": "uspotm2m",
+        "latitude": "49.19533106",
+        "longitude": "16.61488463",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1759776162551
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1756971734846
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759495713973
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1757040323189
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774971282000",
+                "last_update": 1774971282716
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774971282724
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-18.15",
+                "last_update": 1774971282728
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "19.5",
+                "last_update": 1774971282732
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "61.8",
+                "last_update": 1774971282720
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759495713978
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756971734850
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753875377423
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753875377428
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070553548",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Benešova 3",
+        "occupation": {
+            "free_spots": 1,
+            "undefined_spots": 0,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775128948000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147800,
+        "name": "ZTP36895(1)",
+        "type": "uspotm2m",
+        "latitude": "49.193834",
+        "longitude": "16.61327299",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1772174244690
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1757569827062
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759489298785
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1757932444422
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1773473556000",
+                "last_update": 1773473556637
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1773473556648
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-46.8",
+                "last_update": 1773473556643
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "29.849999999999998",
+                "last_update": 1773473556653
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "44.4",
+                "last_update": 1773473556658
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759489298790
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1757569827066
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753875718675
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753875718681
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070569569",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Novobranská 1",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775053913000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147801,
+        "name": "ZTP36895(2)",
+        "type": "uspotm2m",
+        "latitude": "49.19386811",
+        "longitude": "16.61325727",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1769465717179
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1757569760364
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759486318654
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1757813988193
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774996950000",
+                "last_update": 1774996950693
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774996950701
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-20.7",
+                "last_update": 1774996950704
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "36.6",
+                "last_update": 1774996950708
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "48.3",
+                "last_update": 1774996950697
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759486318649
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1757569760367
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753875753822
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753875753827
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070568819",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Novobranská 2",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775046442000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147802,
+        "name": "ZTP30386",
+        "type": "uspotm2m",
+        "latitude": "49.19262729",
+        "longitude": "16.61276205",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1769466806669
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1756209926047
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759490766429
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756333393349
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774729226000",
+                "last_update": 1774729226351
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774729226347
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-12.6",
+                "last_update": 1774729226334
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "-13.65",
+                "last_update": 1774729226343
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "57.0",
+                "last_update": 1774729226339
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759490766450
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756209926053
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1753878097732
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.5",
+                "last_update": 1753878097737
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070572365",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Novobranská",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775065095000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147804,
+        "name": "ZTP37417(1)",
+        "type": "uspotm2m",
+        "latitude": "49.19382303",
+        "longitude": "16.61400569",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1774894791135
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1761231379425
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759492442976
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756275454235
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1775072517000",
+                "last_update": 1775072517301
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1775072517296
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "14.399999999999999",
+                "last_update": 1775072517280
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "20.849999999999998",
+                "last_update": 1775072517285
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "55.35",
+                "last_update": 1775072517290
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759492442980
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756207276836
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "05",
+                "last_update": 1753949906093
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.5",
+                "last_update": 1761231379430
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070540693",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Benešova (VZP 1)",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775061704000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147805,
+        "name": "ZTP37417(2)",
+        "type": "uspotm2m",
+        "latitude": "49.19379512",
+        "longitude": "16.61399244",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1774654459560
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1761231379723
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759492893589
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756291482100
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774983141000",
+                "last_update": 1774983141873
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774983141859
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "16.65",
+                "last_update": 1774983141870
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "26.099999999999998",
+                "last_update": 1774983141867
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "41.699999999999996",
+                "last_update": 1774983141863
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759492893599
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756208512785
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "05",
+                "last_update": 1753949971594
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.5",
+                "last_update": 1761231379727
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070567944",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Benešova (VZP 2)",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775130167000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147806,
+        "name": "ZTP37417(3)",
+        "type": "uspotm2m",
+        "latitude": "49.19376855",
+        "longitude": "16.61397694",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1773267744702
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1761231380053
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759490755485
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756448546395
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1775113684000",
+                "last_update": 1775113684650
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1775113684636
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "13.799999999999999",
+                "last_update": 1775113684631
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "36.0",
+                "last_update": 1775113684655
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "41.699999999999996",
+                "last_update": 1775113684661
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759490755489
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756206685575
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "05",
+                "last_update": 1753950018180
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.5",
+                "last_update": 1761231380059
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070572100",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Benešova (VZP 3)",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775128719000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147807,
+        "name": "ZTP36906",
+        "type": "uspotm2m",
+        "latitude": "49.19226085",
+        "longitude": "16.61312189",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "1",
+                "last_update": 1775083926943
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1761231379083
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759487981081
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1757040156006
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774701673000",
+                "last_update": 1774701673119
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774701673127
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-4.5",
+                "last_update": 1774701673109
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "27.599999999999998",
+                "last_update": 1774701673115
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "51.449999999999996",
+                "last_update": 1774701673123
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759487981100
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756969625562
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "05",
+                "last_update": 1753950239554
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.5",
+                "last_update": 1761231379087
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070553092",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Benešova (Grand Hotel)",
+        "occupation": {
+            "free_spots": 1,
+            "undefined_spots": 0,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775129487000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147808,
+        "name": "ZTP36844(1)",
+        "type": "uspotm2m",
+        "latitude": "49.19327559",
+        "longitude": "16.61405752",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1769465739435
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1756295563486
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759493150934
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756346807114
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774779467000",
+                "last_update": 1774779467030
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774779467034
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "9.299999999999999",
+                "last_update": 1774779467042
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "7.8",
+                "last_update": 1774779467025
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "51.6",
+                "last_update": 1774779467038
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759493150938
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756295563490
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753950474324
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753950474328
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070568884",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Benešova (Autobusové nádr. 1)",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775130803000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147809,
+        "name": "ZTP36844(2)",
+        "type": "uspotm2m",
+        "latitude": "49.19330367",
+        "longitude": "16.61407616",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1769466077518
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1761231378760
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759489730977
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756231945679
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774939765000",
+                "last_update": 1774939765275
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774939765290
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "6.75",
+                "last_update": 1774939765270
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "27.75",
+                "last_update": 1774939765280
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "48.3",
+                "last_update": 1774939765285
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759489730973
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756205294816
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753950535009
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.5",
+                "last_update": 1761231378763
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070566912",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Benešova (Autobusové nádr. 2)",
+        "occupation": {
+            "free_spots": 1,
+            "undefined_spots": 0,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775131104000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147810,
+        "name": "ZTP36882(1)",
+        "type": "uspotm2m",
+        "latitude": "49.19093773",
+        "longitude": "16.61055269",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "1",
+                "last_update": 1773935107716
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1761231351717
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759485550489
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756349007787
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1772435299000",
+                "last_update": 1772435299345
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1772435299340
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-17.55",
+                "last_update": 1772435299349
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "26.25",
+                "last_update": 1772435299335
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "60.3",
+                "last_update": 1772435299354
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759485550493
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756289619764
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1753950908963
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.95",
+                "last_update": 1761231351720
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070541543",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Bašty 1",
+        "occupation": {
+            "free_spots": 1,
+            "undefined_spots": 0,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775130572000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147811,
+        "name": "ZTP36882(2)",
+        "type": "uspotm2m",
+        "latitude": "49.19091801",
+        "longitude": "16.61048946",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1769466141802
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1761231352011
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759487589775
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756332778293
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774982724000",
+                "last_update": 1774982724570
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774982724581
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-24.0",
+                "last_update": 1774982724578
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "32.85",
+                "last_update": 1774982724574
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "51.0",
+                "last_update": 1774982724585
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759487589771
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756289656621
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1753950949352
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.95",
+                "last_update": 1761231352015
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070566839",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Bašty 2",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775047637000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147812,
+        "name": "ZTP37902(1)",
+        "type": "uspotm2m",
+        "latitude": "49.19035969",
+        "longitude": "16.61032739",
+        "attributes": [
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 0
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1753951332349
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.5",
+                "last_update": 1753951332356
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "",
+        "status_location": 1,
+        "asset_id": "",
+        "description": "Nádražní 1",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 1,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "entity": "spots"
+    },
+    {
+        "pomid": 147813,
+        "name": "ZTP37902(2)",
+        "type": "uspotm2m",
+        "latitude": "49.19040184",
+        "longitude": "16.61046446",
+        "attributes": [
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 0
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1753951364079
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.5",
+                "last_update": 1753951364085
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "",
+        "status_location": 1,
+        "asset_id": "",
+        "description": "Nádražní 2",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 1,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "entity": "spots"
+    },
+    {
+        "pomid": 147814,
+        "name": "ZTP34493(1)",
+        "type": "uspotm2m",
+        "latitude": "49.19095317",
+        "longitude": "16.61231129",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1756636675742
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1756288286478
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759485651191
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756348718068
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1775127415000",
+                "last_update": 1775127415837
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1775127415833
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-8.7",
+                "last_update": 1775127415841
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "2.85",
+                "last_update": 1775127415817
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "49.35",
+                "last_update": 1775127415821
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759485651209
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756288286482
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753951564578
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1753951564582
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070531866",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Nádražní (Dr. MAX 1)",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775128326000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147816,
+        "name": "ZTP22173",
+        "type": "uspotm2m",
+        "latitude": "49.19823151",
+        "longitude": "16.6031061",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1769465939716
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1761231378420
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759494604113
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756361418271
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774865910000",
+                "last_update": 1774865910595
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774865910582
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "2.25",
+                "last_update": 1774865910536
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "28.799999999999997",
+                "last_update": 1774865910571
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "63.15",
+                "last_update": 1774865910555
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759494604117
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756280873655
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753951928646
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.5",
+                "last_update": 1761231378425
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070566383",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Marešova (Bílý Dům)",
+        "occupation": {
+            "free_spots": 1,
+            "undefined_spots": 0,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775128141000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147817,
+        "name": "ZTP21999",
+        "type": "uspotm2m",
+        "latitude": "49.19786876",
+        "longitude": "16.60207983",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1775008932233
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1761231378050
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759485344718
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756216953779
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1775015826000",
+                "last_update": 1775015826707
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1775015826721
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-19.2",
+                "last_update": 1775015826725
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "16.5",
+                "last_update": 1775015826712
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "52.949999999999996",
+                "last_update": 1775015826717
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759485344710
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756198925922
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753952192920
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.5",
+                "last_update": 1761231378055
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070568447",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Marešova",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775114878000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147818,
+        "name": "ZTP12481(1)",
+        "type": "uspotm2m",
+        "latitude": "49.19789787",
+        "longitude": "16.60253232",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1769465803970
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1761231376703
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759486450044
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756145279609
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1775074896000",
+                "last_update": 1775074896801
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1775074896807
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "13.049999999999999",
+                "last_update": 1775074896784
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "7.8",
+                "last_update": 1775074896796
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "45.75",
+                "last_update": 1775074896790
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759486450040
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756119760092
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753968205914
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.5",
+                "last_update": 1761231376708
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070568769",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Komenského nám. 1",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775127187000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147819,
+        "name": "ZTP12481(2)",
+        "type": "uspotm2m",
+        "latitude": "49.19790985",
+        "longitude": "16.60258416",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1769466089515
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1761231377066
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759488296882
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756303974838
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1775054427000",
+                "last_update": 1775054427033
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1775054427045
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "-10.95",
+                "last_update": 1775054427102
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "32.85",
+                "last_update": 1775054427038
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "66.89999999999999",
+                "last_update": 1775054427026
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759488296886
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756279177738
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753968236037
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.5",
+                "last_update": 1761231377071
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070566946",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Komenského nám. 2",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775127259000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147820,
+        "name": "ZTP12481(3)",
+        "type": "uspotm2m",
+        "latitude": "49.19792555",
+        "longitude": "16.60263158",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1772231600833
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1761231377392
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759490357670
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756189924380
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1775058524000",
+                "last_update": 1775058524307
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1775058524314
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "34.05",
+                "last_update": 1775058524326
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "32.1",
+                "last_update": 1775058524320
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "43.8",
+                "last_update": 1775058524333
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759490357658
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756120061942
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1753968270441
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.5",
+                "last_update": 1761231377397
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070572928",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Komenského nám. 3",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775102653000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147834,
+        "name": "ZTP12482",
+        "type": "uspotm2m",
+        "latitude": "49.19738631",
+        "longitude": "16.60286936",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1774924329915
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1761231377740
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759494379706
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756362511631
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1775057481000",
+                "last_update": 1775057481765
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1775057481760
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "21.15",
+                "last_update": 1775057481756
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "-1.95",
+                "last_update": 1775057481751
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "46.199999999999996",
+                "last_update": 1775057481746
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759494379681
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756284161816
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1754037864740
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.5",
+                "last_update": 1761231377744
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070570153",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Joštova",
+        "occupation": {
+            "free_spots": 1,
+            "undefined_spots": 0,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775128712000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147835,
+        "name": "ZTP37226",
+        "type": "uspotm2m",
+        "latitude": "49.19781736",
+        "longitude": "16.60197653",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1758378852592
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1756279918266
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759486020323
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1756319743511
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1775051969000",
+                "last_update": 1775051969590
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1775051969604
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "16.8",
+                "last_update": 1775051969595
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "16.349999999999998",
+                "last_update": 1775051969585
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "45.3",
+                "last_update": 1775051969580
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759486020319
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1756279918271
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1754038093996
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1754038094002
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070567118",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Jaselská",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 0,
+            "occupied_spots": 1,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775127811000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147836,
+        "name": "ZTP37228",
+        "type": "uspotm2m",
+        "latitude": "49.19794448",
+        "longitude": "16.60178281",
+        "attributes": [
+            {
+                "attributeid": "algorithm_status",
+                "value": "0",
+                "last_update": 1757932699766
+            },
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 1757572504329
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "reset_reason",
+                "value": "7",
+                "last_update": 1759491310028
+            },
+            {
+                "attributeid": "setup_modifier",
+                "value": "1",
+                "last_update": 1757932699770
+            },
+            {
+                "attributeid": "setup_stamp",
+                "value": "1774871425000",
+                "last_update": 1774871425465
+            },
+            {
+                "attributeid": "setup_state",
+                "value": "synchronized",
+                "last_update": 1774871425459
+            },
+            {
+                "attributeid": "setup_x",
+                "value": "5.55",
+                "last_update": 1774871425454
+            },
+            {
+                "attributeid": "setup_y",
+                "value": "-1.2",
+                "last_update": 1774871425474
+            },
+            {
+                "attributeid": "setup_z",
+                "value": "62.099999999999994",
+                "last_update": 1774871425470
+            },
+            {
+                "attributeid": "softversion",
+                "value": "7.2",
+                "last_update": 1759491310024
+            },
+            {
+                "attributeid": "techversion",
+                "value": "SPM.3.6.4.2",
+                "last_update": 1757572504333
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1754038186930
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1754038186936
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "865343070569643",
+        "status_location": 2,
+        "asset_id": "",
+        "description": "Jaselská",
+        "occupation": {
+            "free_spots": 1,
+            "undefined_spots": 0,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "last_change_vehicle": 1775130531000,
+        "entity": "spots"
+    },
+    {
+        "pomid": 147858,
+        "name": "ZTP12932(1)",
+        "type": "uspotm2m",
+        "latitude": "49.19644511",
+        "longitude": "16.61284813",
+        "attributes": [
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 0
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1754482911154
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.5",
+                "last_update": 1754482911161
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "",
+        "status_location": 1,
+        "asset_id": "",
+        "description": "Dvořákova(1)",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 1,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "entity": "spots"
+    },
+    {
+        "pomid": 147859,
+        "name": "ZTP12932(2)",
+        "type": "uspotm2m",
+        "latitude": "49.19647903",
+        "longitude": "16.61293686",
+        "attributes": [
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 0
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1754482947747
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.5",
+                "last_update": 1754482947753
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "",
+        "status_location": 1,
+        "asset_id": "",
+        "description": "Dvořákova(2)",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 1,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "entity": "spots"
+    },
+    {
+        "pomid": 147860,
+        "name": "ZTP12932(3)",
+        "type": "uspotm2m",
+        "latitude": "49.19651118",
+        "longitude": "16.61301007",
+        "attributes": [
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 0
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1754482981940
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.5",
+                "last_update": 1754482981946
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "",
+        "status_location": 1,
+        "asset_id": "",
+        "description": "Dvořákova(3)",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 1,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "entity": "spots"
+    },
+    {
+        "pomid": 147861,
+        "name": "ZTP12932(4)",
+        "type": "uspotm2m",
+        "latitude": "49.19657766",
+        "longitude": "16.61320394",
+        "attributes": [
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 0
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1754483016276
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.5",
+                "last_update": 1754483016279
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "",
+        "status_location": 1,
+        "asset_id": "",
+        "description": "Dvořákova(4)",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 1,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "entity": "spots"
+    },
+    {
+        "pomid": 147862,
+        "name": "ZTP12932(5)",
+        "type": "uspotm2m",
+        "latitude": "49.1966296",
+        "longitude": "16.61333411",
+        "attributes": [
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 0
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "03",
+                "last_update": 1754483044996
+            },
+            {
+                "attributeid": "umbral",
+                "value": "4.5",
+                "last_update": 1754483045003
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "",
+        "status_location": 1,
+        "asset_id": "",
+        "description": "",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 1,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "entity": "spots"
+    },
+    {
+        "pomid": 151872,
+        "name": "ZTP34493(2)",
+        "type": "uspotm2m",
+        "latitude": "49.19098125",
+        "longitude": "16.61235641",
+        "attributes": [
+            {
+                "attributeid": "alive_freq_uspot",
+                "value": "10800",
+                "last_update": 0
+            },
+            {
+                "attributeid": "downtime",
+                "value": "420",
+                "last_update": 0
+            },
+            {
+                "attributeid": "exclude_from_uspotup",
+                "value": "0",
+                "last_update": 0
+            },
+            {
+                "attributeid": "is_reserved_spot",
+                "value": "false",
+                "last_update": 0
+            },
+            {
+                "attributeid": "node_battery_level",
+                "value": "2.7",
+                "last_update": 0
+            },
+            {
+                "attributeid": "type_parking",
+                "value": "04",
+                "last_update": 1759906064873
+            },
+            {
+                "attributeid": "umbral",
+                "value": "7.2",
+                "last_update": 1759906064882
+            },
+            {
+                "attributeid": "vehicle_delay",
+                "value": "65",
+                "last_update": 0
+            }
+        ],
+        "elementid": "",
+        "status_location": 1,
+        "asset_id": "",
+        "full_address": "",
+        "description": "Nádražní (Dr. MAX 1)",
+        "occupation": {
+            "free_spots": 0,
+            "undefined_spots": 1,
+            "occupied_spots": 0,
+            "max_capacity": 1
+        },
+        "entity": "spots"
+    }
+]
