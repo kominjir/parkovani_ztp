@@ -435,12 +435,12 @@
         "asset_id": "",
         "description": "Jakubské náměstí",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775148699000,
+        "last_change_vehicle": 1775153802000,
         "entity": "spots"
     },
     {
@@ -657,12 +657,12 @@
         "asset_id": "",
         "description": "Roosveltova 2",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775150453000,
+        "last_change_vehicle": 1775155633000,
         "entity": "spots"
     },
     {
@@ -2327,7 +2327,7 @@
             "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775146009000,
+        "last_change_vehicle": 1775155779000,
         "entity": "spots"
     },
     {
@@ -3321,12 +3321,12 @@
         "asset_id": "",
         "description": "Benešova (Autobusové nádr. 2)",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775148835000,
+        "last_change_vehicle": 1775153605000,
         "entity": "spots"
     },
     {
@@ -3774,12 +3774,12 @@
         "asset_id": "",
         "description": "Nádražní (Dr. MAX 1)",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775151928000,
+        "last_change_vehicle": 1775155808000,
         "entity": "spots"
     },
     {
@@ -3890,7 +3890,7 @@
             "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775151652000,
+        "last_change_vehicle": 1775155562000,
         "entity": "spots"
     },
     {
@@ -4169,8 +4169,8 @@
             },
             {
                 "attributeid": "setup_state",
-                "value": "synchronized",
-                "last_update": 1775054427045
+                "value": "Pending",
+                "last_update": 1775153648143
             },
             {
                 "attributeid": "setup_x",
@@ -4667,7 +4667,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775149342000,
+        "last_change_vehicle": 1775155812000,
         "entity": "spots"
     },
     {
