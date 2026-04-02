@@ -102,12 +102,12 @@
         "asset_id": "",
         "description": "Moravské náměstí",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775142885000,
+        "last_change_vehicle": 1775143395000,
         "entity": "spots"
     },
     {
@@ -324,12 +324,12 @@
         "asset_id": "",
         "description": "Moravské náměstí",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775114642000,
+        "last_change_vehicle": 1775146398000,
         "entity": "spots"
     },
     {
@@ -435,12 +435,12 @@
         "asset_id": "",
         "description": "Jakubské náměstí",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775130812000,
+        "last_change_vehicle": 1775144244000,
         "entity": "spots"
     },
     {
@@ -603,28 +603,28 @@
             },
             {
                 "attributeid": "setup_stamp",
-                "value": "1774955325000",
-                "last_update": 1774955325546
+                "value": "1775145915000",
+                "last_update": 1775145915646
             },
             {
                 "attributeid": "setup_state",
-                "value": "Pending",
-                "last_update": 1775142699034
+                "value": "synchronized",
+                "last_update": 1775145915665
             },
             {
                 "attributeid": "setup_x",
-                "value": "-30.75",
-                "last_update": 1774955325557
+                "value": "-30.9",
+                "last_update": 1775145915652
             },
             {
                 "attributeid": "setup_y",
-                "value": "17.849999999999998",
-                "last_update": 1774955325562
+                "value": "17.7",
+                "last_update": 1775145915659
             },
             {
                 "attributeid": "setup_z",
-                "value": "45.15",
-                "last_update": 1774955325537
+                "value": "45.3",
+                "last_update": 1775145915639
             },
             {
                 "attributeid": "softversion",
@@ -657,12 +657,12 @@
         "asset_id": "",
         "description": "Roosveltova 2",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775140442000,
+        "last_change_vehicle": 1775145902000,
         "entity": "spots"
     },
     {
@@ -1550,7 +1550,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775143103000,
+        "last_change_vehicle": 1775144782000,
         "entity": "spots"
     },
     {
@@ -2105,7 +2105,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775137696000,
+        "last_change_vehicle": 1775144837000,
         "entity": "spots"
     },
     {
@@ -2216,7 +2216,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775136300000,
+        "last_change_vehicle": 1775145390000,
         "entity": "spots"
     },
     {
@@ -2322,12 +2322,12 @@
         "asset_id": "",
         "description": "Benešova 3",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775142089000,
+        "last_change_vehicle": 1775146009000,
         "entity": "spots"
     },
     {
@@ -3321,12 +3321,12 @@
         "asset_id": "",
         "description": "Benešova (Autobusové nádr. 2)",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775141324000,
+        "last_change_vehicle": 1775146174000,
         "entity": "spots"
     },
     {
@@ -3437,7 +3437,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775133070000,
+        "last_change_vehicle": 1775145323000,
         "entity": "spots"
     },
     {
@@ -3885,12 +3885,12 @@
         "asset_id": "",
         "description": "Marešova (Bílý Dům)",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775142842000,
+        "last_change_vehicle": 1775145462000,
         "entity": "spots"
     },
     {
@@ -3996,12 +3996,12 @@
         "asset_id": "",
         "description": "Marešova",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775139180000,
+        "last_change_vehicle": 1775143720000,
         "entity": "spots"
     },
     {
@@ -4112,7 +4112,7 @@
             "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775140048000,
+        "last_change_vehicle": 1775145198000,
         "entity": "spots"
     },
     {
@@ -4223,7 +4223,7 @@
             "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775127259000,
+        "last_change_vehicle": 1775145290000,
         "entity": "spots"
     },
     {
@@ -4551,12 +4551,12 @@
         "asset_id": "",
         "description": "Jaselská",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775138243000,
+        "last_change_vehicle": 1775145171000,
         "entity": "spots"
     },
     {
@@ -4608,28 +4608,28 @@
             },
             {
                 "attributeid": "setup_stamp",
-                "value": "1774871425000",
-                "last_update": 1774871425465
+                "value": "1775146244000",
+                "last_update": 1775146244633
             },
             {
                 "attributeid": "setup_state",
-                "value": "Pending",
-                "last_update": 1775141191457
+                "value": "synchronized",
+                "last_update": 1775146244629
             },
             {
                 "attributeid": "setup_x",
-                "value": "5.55",
-                "last_update": 1774871425454
+                "value": "7.8",
+                "last_update": 1775146244646
             },
             {
                 "attributeid": "setup_y",
-                "value": "-1.2",
-                "last_update": 1774871425474
+                "value": "-2.1",
+                "last_update": 1775146244638
             },
             {
                 "attributeid": "setup_z",
-                "value": "62.099999999999994",
-                "last_update": 1774871425470
+                "value": "61.199999999999996",
+                "last_update": 1775146244642
             },
             {
                 "attributeid": "softversion",
