@@ -3210,12 +3210,12 @@
         "asset_id": "",
         "description": "Benešova (Autobusové nádr. 1)",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775151983000,
+        "last_change_vehicle": 1775159253000,
         "entity": "spots"
     },
     {
@@ -3321,12 +3321,12 @@
         "asset_id": "",
         "description": "Benešova (Autobusové nádr. 2)",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775153605000,
+        "last_change_vehicle": 1775159446000,
         "entity": "spots"
     },
     {
@@ -3890,7 +3890,7 @@
             "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775157293000,
+        "last_change_vehicle": 1775160263000,
         "entity": "spots"
     },
     {
