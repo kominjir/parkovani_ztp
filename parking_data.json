@@ -102,12 +102,12 @@
         "asset_id": "",
         "description": "Moravské náměstí",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775157445000,
+        "last_change_vehicle": 1775160907000,
         "entity": "spots"
     },
     {
@@ -551,7 +551,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775156239000,
+        "last_change_vehicle": 1775161811000,
         "entity": "spots"
     },
     {
@@ -657,12 +657,12 @@
         "asset_id": "",
         "description": "Roosveltova 2",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775155633000,
+        "last_change_vehicle": 1775161114000,
         "entity": "spots"
     },
     {
@@ -1101,12 +1101,12 @@
         "asset_id": "",
         "description": "Mozartova",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775148827000,
+        "last_change_vehicle": 1775162762000,
         "entity": "spots"
     },
     {
@@ -2105,7 +2105,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775157126000,
+        "last_change_vehicle": 1775161077000,
         "entity": "spots"
     },
     {
@@ -2322,12 +2322,12 @@
         "asset_id": "",
         "description": "Benešova 3",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775155779000,
+        "last_change_vehicle": 1775161519000,
         "entity": "spots"
     },
     {
@@ -3215,7 +3215,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775159253000,
+        "last_change_vehicle": 1775161894000,
         "entity": "spots"
     },
     {
@@ -3326,7 +3326,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775159446000,
+        "last_change_vehicle": 1775161926000,
         "entity": "spots"
     },
     {
@@ -3437,7 +3437,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775157902000,
+        "last_change_vehicle": 1775161893000,
         "entity": "spots"
     },
     {
@@ -3779,7 +3779,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775156548000,
+        "last_change_vehicle": 1775162328000,
         "entity": "spots"
     },
     {
@@ -3885,12 +3885,12 @@
         "asset_id": "",
         "description": "Marešova (Bílý Dům)",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775160263000,
+        "last_change_vehicle": 1775161892000,
         "entity": "spots"
     },
     {
