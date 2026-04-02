@@ -546,12 +546,12 @@
         "asset_id": "",
         "description": "Roosveltova 1",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775128020000,
+        "last_change_vehicle": 1775136830000,
         "entity": "spots"
     },
     {
@@ -657,12 +657,12 @@
         "asset_id": "",
         "description": "Roosveltova 2",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775132152000,
+        "last_change_vehicle": 1775138021000,
         "entity": "spots"
     },
     {
@@ -995,7 +995,7 @@
             "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1774798316000,
+        "last_change_vehicle": 1775138903000,
         "entity": "spots"
     },
     {
@@ -1323,12 +1323,12 @@
         "asset_id": "",
         "description": "Dominikánské náměstí",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775131145000,
+        "last_change_vehicle": 1775136914000,
         "entity": "spots"
     },
     {
@@ -1550,7 +1550,7 @@
             "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775120822000,
+        "last_change_vehicle": 1775138630000,
         "entity": "spots"
     },
     {
@@ -1878,12 +1878,12 @@
         "asset_id": "",
         "description": "Měnínská 1 ",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775122008000,
+        "last_change_vehicle": 1775136967000,
         "entity": "spots"
     },
     {
@@ -1994,7 +1994,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775126496000,
+        "last_change_vehicle": 1775138730000,
         "entity": "spots"
     },
     {
@@ -2100,12 +2100,12 @@
         "asset_id": "",
         "description": "Benešova 1",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775132106000,
+        "last_change_vehicle": 1775137696000,
         "entity": "spots"
     },
     {
@@ -2216,7 +2216,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775132910000,
+        "last_change_vehicle": 1775136300000,
         "entity": "spots"
     },
     {
@@ -2327,7 +2327,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775128948000,
+        "last_change_vehicle": 1775135058000,
         "entity": "spots"
     },
     {
@@ -2433,12 +2433,12 @@
         "asset_id": "",
         "description": "Novobranská 1",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775053913000,
+        "last_change_vehicle": 1775136750000,
         "entity": "spots"
     },
     {
@@ -2877,12 +2877,12 @@
         "asset_id": "",
         "description": "Benešova (VZP 2)",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775133228000,
+        "last_change_vehicle": 1775139008000,
         "entity": "spots"
     },
     {
@@ -3215,7 +3215,7 @@
             "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775134223000,
+        "last_change_vehicle": 1775139053000,
         "entity": "spots"
     },
     {
@@ -3321,12 +3321,12 @@
         "asset_id": "",
         "description": "Benešova (Autobusové nádr. 2)",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775131104000,
+        "last_change_vehicle": 1775137145000,
         "entity": "spots"
     },
     {
@@ -3779,7 +3779,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775132407000,
+        "last_change_vehicle": 1775137967000,
         "entity": "spots"
     },
     {
@@ -3885,12 +3885,12 @@
         "asset_id": "",
         "description": "Marešova (Bílý Dům)",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775134092000,
+        "last_change_vehicle": 1775135602000,
         "entity": "spots"
     },
     {
@@ -3996,12 +3996,12 @@
         "asset_id": "",
         "description": "Marešova",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775114878000,
+        "last_change_vehicle": 1775139180000,
         "entity": "spots"
     },
     {
@@ -4107,12 +4107,12 @@
         "asset_id": "",
         "description": "Komenského nám. 1",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775127187000,
+        "last_change_vehicle": 1775138388000,
         "entity": "spots"
     },
     {
@@ -4551,12 +4551,12 @@
         "asset_id": "",
         "description": "Jaselská",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775127811000,
+        "last_change_vehicle": 1775138243000,
         "entity": "spots"
     },
     {
