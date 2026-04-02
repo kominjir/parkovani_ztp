@@ -102,12 +102,12 @@
         "asset_id": "",
         "description": "Moravské náměstí",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775160907000,
+        "last_change_vehicle": 1775163316000,
         "entity": "spots"
     },
     {
@@ -1550,7 +1550,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775156893000,
+        "last_change_vehicle": 1775164194000,
         "entity": "spots"
     },
     {
@@ -2105,7 +2105,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775161077000,
+        "last_change_vehicle": 1775163538000,
         "entity": "spots"
     },
     {
@@ -3321,12 +3321,12 @@
         "asset_id": "",
         "description": "Benešova (Autobusové nádr. 2)",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775161926000,
+        "last_change_vehicle": 1775163626000,
         "entity": "spots"
     },
     {
