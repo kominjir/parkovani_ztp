@@ -657,12 +657,12 @@
         "asset_id": "",
         "description": "Roosveltova 2",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775128402000,
+        "last_change_vehicle": 1775132152000,
         "entity": "spots"
     },
     {
@@ -884,7 +884,7 @@
             "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775126435000,
+        "last_change_vehicle": 1775134367000,
         "entity": "spots"
     },
     {
@@ -1212,12 +1212,12 @@
         "asset_id": "",
         "description": "Mozartova",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775124879000,
+        "last_change_vehicle": 1775133270000,
         "entity": "spots"
     },
     {
@@ -2105,7 +2105,7 @@
             "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775129986000,
+        "last_change_vehicle": 1775132106000,
         "entity": "spots"
     },
     {
@@ -2216,7 +2216,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775130490000,
+        "last_change_vehicle": 1775132910000,
         "entity": "spots"
     },
     {
@@ -2877,12 +2877,12 @@
         "asset_id": "",
         "description": "Benešova (VZP 2)",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775130167000,
+        "last_change_vehicle": 1775133228000,
         "entity": "spots"
     },
     {
@@ -2988,12 +2988,12 @@
         "asset_id": "",
         "description": "Benešova (VZP 3)",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775128719000,
+        "last_change_vehicle": 1775133038000,
         "entity": "spots"
     },
     {
@@ -3215,7 +3215,7 @@
             "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775130803000,
+        "last_change_vehicle": 1775134223000,
         "entity": "spots"
     },
     {
@@ -3437,7 +3437,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775130572000,
+        "last_change_vehicle": 1775133070000,
         "entity": "spots"
     },
     {
@@ -3774,12 +3774,12 @@
         "asset_id": "",
         "description": "Nádražní (Dr. MAX 1)",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775128326000,
+        "last_change_vehicle": 1775132407000,
         "entity": "spots"
     },
     {
@@ -3890,7 +3890,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775128141000,
+        "last_change_vehicle": 1775134092000,
         "entity": "spots"
     },
     {
@@ -4334,7 +4334,7 @@
             "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775102653000,
+        "last_change_vehicle": 1775134044000,
         "entity": "spots"
     },
     {
@@ -4667,7 +4667,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775130531000,
+        "last_change_vehicle": 1775133951000,
         "entity": "spots"
     },
     {
