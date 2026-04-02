@@ -3779,7 +3779,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775162328000,
+        "last_change_vehicle": 1775169488000,
         "entity": "spots"
     },
     {
@@ -4502,8 +4502,8 @@
             },
             {
                 "attributeid": "setup_state",
-                "value": "synchronized",
-                "last_update": 1775051969604
+                "value": "Pending",
+                "last_update": 1775169663787
             },
             {
                 "attributeid": "setup_x",
