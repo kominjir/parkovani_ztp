@@ -1,0 +1,28 @@
+name: Update Data
+on:
+  schedule:
+    - cron: '*/2 * * * *'  # Každých 10 minut
+  workflow_dispatch:        # Tlačítko pro ruční spuštění
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # Důležité: dovolí GitHubu zapsat ten JSON zpět
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - run: pip install requests
+      - name: Spustit skript
+        env:
+          AUTH_URL: ${{ secrets.AUTH_URL }}
+        run: python update_parking.py
+      - name: Uložit JSON do repozitáře
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add parking_data.json
+          git commit -m "Aktualizace dat" || exit 0
+          git push
