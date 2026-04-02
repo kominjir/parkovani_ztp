@@ -107,7 +107,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775170787000,
+        "last_change_vehicle": 1775173787000,
         "entity": "spots"
     },
     {
@@ -3326,7 +3326,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775165365000,
+        "last_change_vehicle": 1775173706000,
         "entity": "spots"
     },
     {
