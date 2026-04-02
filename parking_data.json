@@ -107,7 +107,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775163316000,
+        "last_change_vehicle": 1775170787000,
         "entity": "spots"
     },
     {
@@ -4497,28 +4497,28 @@
             },
             {
                 "attributeid": "setup_stamp",
-                "value": "1775051969000",
-                "last_update": 1775051969590
+                "value": "1775170784000",
+                "last_update": 1775170784108
             },
             {
                 "attributeid": "setup_state",
-                "value": "Pending",
-                "last_update": 1775169663787
+                "value": "synchronized",
+                "last_update": 1775170784119
             },
             {
                 "attributeid": "setup_x",
-                "value": "16.8",
-                "last_update": 1775051969595
+                "value": "17.55",
+                "last_update": 1775170784114
             },
             {
                 "attributeid": "setup_y",
-                "value": "16.349999999999998",
-                "last_update": 1775051969585
+                "value": "16.2",
+                "last_update": 1775170784124
             },
             {
                 "attributeid": "setup_z",
-                "value": "45.3",
-                "last_update": 1775051969580
+                "value": "46.949999999999996",
+                "last_update": 1775170784131
             },
             {
                 "attributeid": "softversion",
