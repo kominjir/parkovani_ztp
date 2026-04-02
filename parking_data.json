@@ -102,12 +102,12 @@
         "asset_id": "",
         "description": "Moravské náměstí",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775149446000,
+        "last_change_vehicle": 1775157445000,
         "entity": "spots"
     },
     {
@@ -546,12 +546,12 @@
         "asset_id": "",
         "description": "Roosveltova 1",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775136830000,
+        "last_change_vehicle": 1775156239000,
         "entity": "spots"
     },
     {
@@ -879,12 +879,12 @@
         "asset_id": "",
         "description": "Beethovenova",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775134367000,
+        "last_change_vehicle": 1775158262000,
         "entity": "spots"
     },
     {
@@ -995,7 +995,7 @@
             "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775151875000,
+        "last_change_vehicle": 1775158016000,
         "entity": "spots"
     },
     {
@@ -1545,12 +1545,12 @@
         "asset_id": "",
         "description": "Šilingrovo náměstí",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775146413000,
+        "last_change_vehicle": 1775156893000,
         "entity": "spots"
     },
     {
@@ -2100,12 +2100,12 @@
         "asset_id": "",
         "description": "Benešova 1",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775151947000,
+        "last_change_vehicle": 1775157126000,
         "entity": "spots"
     },
     {
@@ -3437,7 +3437,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775148273000,
+        "last_change_vehicle": 1775157902000,
         "entity": "spots"
     },
     {
@@ -3774,12 +3774,12 @@
         "asset_id": "",
         "description": "Nádražní (Dr. MAX 1)",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775155808000,
+        "last_change_vehicle": 1775156548000,
         "entity": "spots"
     },
     {
@@ -3890,7 +3890,7 @@
             "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775155562000,
+        "last_change_vehicle": 1775157293000,
         "entity": "spots"
     },
     {
@@ -4112,7 +4112,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775150679000,
+        "last_change_vehicle": 1775156498000,
         "entity": "spots"
     },
     {
@@ -4164,28 +4164,28 @@
             },
             {
                 "attributeid": "setup_stamp",
-                "value": "1775054427000",
-                "last_update": 1775054427033
+                "value": "1775157632000",
+                "last_update": 1775157632795
             },
             {
                 "attributeid": "setup_state",
-                "value": "Pending",
-                "last_update": 1775153648143
+                "value": "synchronized",
+                "last_update": 1775157632792
             },
             {
                 "attributeid": "setup_x",
-                "value": "-10.95",
-                "last_update": 1775054427102
+                "value": "-11.549999999999999",
+                "last_update": 1775157632780
             },
             {
                 "attributeid": "setup_y",
-                "value": "32.85",
-                "last_update": 1775054427038
+                "value": "32.699999999999996",
+                "last_update": 1775157632784
             },
             {
                 "attributeid": "setup_z",
-                "value": "66.89999999999999",
-                "last_update": 1775054427026
+                "value": "67.05",
+                "last_update": 1775157632788
             },
             {
                 "attributeid": "softversion",
@@ -4218,12 +4218,12 @@
         "asset_id": "",
         "description": "Komenského nám. 2",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775145290000,
+        "last_change_vehicle": 1775157620000,
         "entity": "spots"
     },
     {
@@ -4551,12 +4551,12 @@
         "asset_id": "",
         "description": "Jaselská",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775145171000,
+        "last_change_vehicle": 1775156483000,
         "entity": "spots"
     },
     {
@@ -4667,7 +4667,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775155812000,
+        "last_change_vehicle": 1775157012000,
         "entity": "spots"
     },
     {
