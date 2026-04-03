@@ -657,12 +657,12 @@
         "asset_id": "",
         "description": "Roosveltova 2",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775199926000,
+        "last_change_vehicle": 1775204385000,
         "entity": "spots"
     },
     {
@@ -2100,12 +2100,12 @@
         "asset_id": "",
         "description": "Benešova 1",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775181698000,
+        "last_change_vehicle": 1775204949000,
         "entity": "spots"
     },
     {
@@ -2988,12 +2988,12 @@
         "asset_id": "",
         "description": "Benešova (VZP 3)",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775196422000,
+        "last_change_vehicle": 1775204232000,
         "entity": "spots"
     },
     {
@@ -3210,12 +3210,12 @@
         "asset_id": "",
         "description": "Benešova (Autobusové nádr. 1)",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775201465000,
+        "last_change_vehicle": 1775202875000,
         "entity": "spots"
     },
     {
@@ -3326,7 +3326,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775201328000,
+        "last_change_vehicle": 1775204468000,
         "entity": "spots"
     },
     {
@@ -3774,12 +3774,12 @@
         "asset_id": "",
         "description": "Nádražní (Dr. MAX 1)",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775201519000,
+        "last_change_vehicle": 1775202540000,
         "entity": "spots"
     },
     {
@@ -3996,12 +3996,12 @@
         "asset_id": "",
         "description": "Marešova",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775150180000,
+        "last_change_vehicle": 1775203392000,
         "entity": "spots"
     },
     {
@@ -4440,12 +4440,12 @@
         "asset_id": "",
         "description": "Joštova",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775196255000,
+        "last_change_vehicle": 1775204286000,
         "entity": "spots"
     },
     {
