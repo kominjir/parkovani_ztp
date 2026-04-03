@@ -1661,7 +1661,7 @@
             "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775108868000,
+        "last_change_vehicle": 1775193612000,
         "entity": "spots"
     },
     {
@@ -2046,28 +2046,28 @@
             },
             {
                 "attributeid": "setup_stamp",
-                "value": "1774219905000",
-                "last_update": 1774219905108
+                "value": "1775192264000",
+                "last_update": 1775192264780
             },
             {
                 "attributeid": "setup_state",
-                "value": "Pending",
-                "last_update": 1775184512684
+                "value": "synchronized",
+                "last_update": 1775192264774
             },
             {
                 "attributeid": "setup_x",
-                "value": "-21.45",
-                "last_update": 1774219905127
+                "value": "-21.3",
+                "last_update": 1775192264785
             },
             {
                 "attributeid": "setup_y",
                 "value": "18.9",
-                "last_update": 1774219905113
+                "last_update": 1775192264790
             },
             {
                 "attributeid": "setup_z",
                 "value": "50.699999999999996",
-                "last_update": 1774219905117
+                "last_update": 1775192264796
             },
             {
                 "attributeid": "softversion",
@@ -2327,7 +2327,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775161519000,
+        "last_change_vehicle": 1775192330000,
         "entity": "spots"
     },
     {
@@ -3210,12 +3210,12 @@
         "asset_id": "",
         "description": "Benešova (Autobusové nádr. 1)",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775187355000,
+        "last_change_vehicle": 1775193135000,
         "entity": "spots"
     },
     {
@@ -3437,7 +3437,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775161893000,
+        "last_change_vehicle": 1775189844000,
         "entity": "spots"
     },
     {
@@ -4164,28 +4164,28 @@
             },
             {
                 "attributeid": "setup_stamp",
-                "value": "1775157632000",
-                "last_update": 1775157632795
+                "value": "1775192072000",
+                "last_update": 1775192072475
             },
             {
                 "attributeid": "setup_state",
-                "value": "Pending",
-                "last_update": 1775182388774
+                "value": "synchronized",
+                "last_update": 1775192072498
             },
             {
                 "attributeid": "setup_x",
-                "value": "-11.549999999999999",
-                "last_update": 1775157632780
+                "value": "-11.7",
+                "last_update": 1775192072493
             },
             {
                 "attributeid": "setup_y",
                 "value": "32.699999999999996",
-                "last_update": 1775157632784
+                "last_update": 1775192072487
             },
             {
                 "attributeid": "setup_z",
-                "value": "67.05",
-                "last_update": 1775157632788
+                "value": "66.3",
+                "last_update": 1775192072481
             },
             {
                 "attributeid": "softversion",
@@ -4440,12 +4440,12 @@
         "asset_id": "",
         "description": "Joštova",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775148803000,
+        "last_change_vehicle": 1775191124000,
         "entity": "spots"
     },
     {
