@@ -2051,8 +2051,8 @@
             },
             {
                 "attributeid": "setup_state",
-                "value": "synchronized",
-                "last_update": 1774219905123
+                "value": "Pending",
+                "last_update": 1775184512684
             },
             {
                 "attributeid": "setup_x",
@@ -2100,12 +2100,12 @@
         "asset_id": "",
         "description": "Benešova 1",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775163538000,
+        "last_change_vehicle": 1775181698000,
         "entity": "spots"
     },
     {
@@ -3215,7 +3215,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775175865000,
+        "last_change_vehicle": 1775187355000,
         "entity": "spots"
     },
     {
@@ -3326,7 +3326,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775173706000,
+        "last_change_vehicle": 1775187397000,
         "entity": "spots"
     },
     {
@@ -3890,7 +3890,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775161892000,
+        "last_change_vehicle": 1775181184000,
         "entity": "spots"
     },
     {
@@ -4053,28 +4053,28 @@
             },
             {
                 "attributeid": "setup_stamp",
-                "value": "1775074896000",
-                "last_update": 1775074896801
+                "value": "1775182901000",
+                "last_update": 1775182901271
             },
             {
                 "attributeid": "setup_state",
                 "value": "synchronized",
-                "last_update": 1775074896807
+                "last_update": 1775182901276
             },
             {
                 "attributeid": "setup_x",
-                "value": "13.049999999999999",
-                "last_update": 1775074896784
+                "value": "12.9",
+                "last_update": 1775182901258
             },
             {
                 "attributeid": "setup_y",
-                "value": "7.8",
-                "last_update": 1775074896796
+                "value": "7.949999999999999",
+                "last_update": 1775182901281
             },
             {
                 "attributeid": "setup_z",
-                "value": "45.75",
-                "last_update": 1775074896790
+                "value": "46.199999999999996",
+                "last_update": 1775182901264
             },
             {
                 "attributeid": "softversion",
@@ -4169,8 +4169,8 @@
             },
             {
                 "attributeid": "setup_state",
-                "value": "synchronized",
-                "last_update": 1775157632792
+                "value": "Pending",
+                "last_update": 1775182388774
             },
             {
                 "attributeid": "setup_x",
