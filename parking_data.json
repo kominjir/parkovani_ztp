@@ -546,12 +546,12 @@
         "asset_id": "",
         "description": "Roosveltova 1",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775176682000,
+        "last_change_vehicle": 1775202183000,
         "entity": "spots"
     },
     {
@@ -657,12 +657,12 @@
         "asset_id": "",
         "description": "Roosveltova 2",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775161114000,
+        "last_change_vehicle": 1775199926000,
         "entity": "spots"
     },
     {
@@ -768,12 +768,12 @@
         "asset_id": "",
         "description": "Roosveltova 3",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775065794000,
+        "last_change_vehicle": 1775202290000,
         "entity": "spots"
     },
     {
@@ -1491,28 +1491,28 @@
             },
             {
                 "attributeid": "setup_stamp",
-                "value": "1774608608000",
-                "last_update": 1774608609685
+                "value": "1775201586000",
+                "last_update": 1775201586760
             },
             {
                 "attributeid": "setup_state",
-                "value": "Pending",
-                "last_update": 1775198201313
+                "value": "synchronized",
+                "last_update": 1775201586776
             },
             {
                 "attributeid": "setup_x",
-                "value": "5.85",
-                "last_update": 1774608609690
+                "value": "6.3",
+                "last_update": 1775201586766
             },
             {
                 "attributeid": "setup_y",
-                "value": "-17.25",
-                "last_update": 1774608609694
+                "value": "-16.2",
+                "last_update": 1775201586771
             },
             {
                 "attributeid": "setup_z",
-                "value": "49.199999999999996",
-                "last_update": 1774608609698
+                "value": "49.949999999999996",
+                "last_update": 1775201586755
             },
             {
                 "attributeid": "softversion",
@@ -1545,12 +1545,12 @@
         "asset_id": "",
         "description": "Šilingrovo náměstí",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775164194000,
+        "last_change_vehicle": 1775201495000,
         "entity": "spots"
     },
     {
@@ -3210,12 +3210,12 @@
         "asset_id": "",
         "description": "Benešova (Autobusové nádr. 1)",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775197765000,
+        "last_change_vehicle": 1775201465000,
         "entity": "spots"
     },
     {
@@ -3326,7 +3326,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775195517000,
+        "last_change_vehicle": 1775201328000,
         "entity": "spots"
     },
     {
@@ -3774,12 +3774,12 @@
         "asset_id": "",
         "description": "Nádražní (Dr. MAX 1)",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775197419000,
+        "last_change_vehicle": 1775201519000,
         "entity": "spots"
     },
     {
@@ -3885,12 +3885,12 @@
         "asset_id": "",
         "description": "Marešova (Bílý Dům)",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775181184000,
+        "last_change_vehicle": 1775202275000,
         "entity": "spots"
     },
     {
