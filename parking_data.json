@@ -324,12 +324,12 @@
         "asset_id": "",
         "description": "Moravské náměstí",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775150791000,
+        "last_change_vehicle": 1775217851000,
         "entity": "spots"
     },
     {
@@ -1545,12 +1545,12 @@
         "asset_id": "",
         "description": "Šilingrovo náměstí",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775201495000,
+        "last_change_vehicle": 1775217305000,
         "entity": "spots"
     },
     {
@@ -2100,12 +2100,12 @@
         "asset_id": "",
         "description": "Benešova 1",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775215510000,
+        "last_change_vehicle": 1775217150000,
         "entity": "spots"
     },
     {
@@ -2211,12 +2211,12 @@
         "asset_id": "",
         "description": "Benešova 2",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775146339000,
+        "last_change_vehicle": 1775216803000,
         "entity": "spots"
     },
     {
@@ -2322,12 +2322,12 @@
         "asset_id": "",
         "description": "Benešova 3",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775206941000,
+        "last_change_vehicle": 1775216762000,
         "entity": "spots"
     },
     {
@@ -3210,12 +3210,12 @@
         "asset_id": "",
         "description": "Benešova (Autobusové nádr. 1)",
         "occupation": {
-            "free_spots": 0,
+            "free_spots": 1,
             "undefined_spots": 0,
-            "occupied_spots": 1,
+            "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775216222000,
+        "last_change_vehicle": 1775217236000,
         "entity": "spots"
     },
     {
@@ -3326,7 +3326,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775208687000,
+        "last_change_vehicle": 1775216998000,
         "entity": "spots"
     },
     {
@@ -3779,7 +3779,7 @@
             "occupied_spots": 0,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775214340000,
+        "last_change_vehicle": 1775216680000,
         "entity": "spots"
     },
     {
@@ -4218,12 +4218,12 @@
         "asset_id": "",
         "description": "Komenského nám. 2",
         "occupation": {
-            "free_spots": 1,
+            "free_spots": 0,
             "undefined_spots": 0,
-            "occupied_spots": 0,
+            "occupied_spots": 1,
             "max_capacity": 1
         },
-        "last_change_vehicle": 1775215984000,
+        "last_change_vehicle": 1775217704000,
         "entity": "spots"
     },
     {
